@@ -1,0 +1,3 @@
+epochs:300	embedding_dim:768	lr:0.0005	batch_size:50margin:8.0norm:1C:0.25
+hits@10: 0.7457627118644068
+meanrank: 13.263771186440678
